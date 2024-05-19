@@ -2,7 +2,6 @@
 
 Go-Back-N protocol, also called Go-Back-N Automatic Repeat reQuest, is a data link layer protocol that uses a sliding window method for reliable and sequential delivery of data frames. 
 
-
 ## Points to note
 
 - In Go-Back-N, N determines the sender's window size, and the size of the receiver's window is always 1.
